@@ -73,6 +73,7 @@ docker-compose up -d
 Utiliza Maven para arrancar la aplicación de Spring Boot:
 
 ```bash
+cd backend
 ./mvnw spring-boot:run
 
 ```
