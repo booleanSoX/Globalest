@@ -37,3 +37,4 @@ build/
 *.sql
 Globalest/debug
 **/target
+!backend/src/main/resources/db/migration/*.sql
